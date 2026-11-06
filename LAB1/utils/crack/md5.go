@@ -1,0 +1,10 @@
+package crack
+
+import (
+	"crypto/md5"
+	"fmt"
+)
+
+func Hash(password string) string {
+	return fmt.Sprintf("%x", md5.Sum([]byte(password)))
+}
