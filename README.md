@@ -26,19 +26,19 @@ W3-Hash/
 │   ├── main.go
 │   ├── go.mod
 │   ├── utils/crack/md5.go
-│   ├── nord_vpn.txt             # local only; ignored by Git
+│   ├── nord_vpn.txt             
 │   └── verbose.txt
 ├── LAB2/
 │   ├── main.go
 │   ├── go.mod
 │   ├── utils/crack/sha1.go
-│   ├── nord_vpn.txt             # local only; ignored by Git
+│   ├── nord_vpn.txt         
 │   └── verbose.txt
 ├── LAB3/
 │   ├── main.go
 │   ├── go.mod
 │   ├── utils/crack/sha512.go
-│   ├── nord_vpn.txt             # local only; ignored by Git
+│   ├── nord_vpn.txt             
 │   └── verbose.txt
 ├── LAB4/
 │   ├── main.go
