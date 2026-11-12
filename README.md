@@ -45,9 +45,6 @@ W3-Hash/
 │   ├── main_test.go
 │   ├── go.mod
 │   └── output.txt
-├── docs/VERIFICATION.md
-├── screenshots/README.md
 ├── README.md
-└── .gitignore
 ```
 
